@@ -40,7 +40,10 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+<<<<<<< HEAD
 notes-api-adam-webserver.pem
+=======
+>>>>>>> b7eadc242bea74628355361303c5efe1119b041f
 
 # TypeScript v1 declaration files
 typings/
